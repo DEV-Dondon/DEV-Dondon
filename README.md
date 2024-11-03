@@ -2,8 +2,7 @@
 
 <h1>
     <a href="https://github.com/DEV-Dondon">
-        <img align="center" alt="Logo DEV-Dondon" width="36px" src="https://www.flaticon.com/free-icon/technology-disruption_11366161?term=tecnology&page=1&position=92&origin=search&related_id=11366161">
-    </a>
+        <img align="center" alt="Logo DEV-Dondon" width="36px" src="https://cdn-icons-png.freepik.com/256/7272/7272339.png?uid=R15475566&ga=GA1.1.2080203664.1730673981&semt=ais_hybrid"></a>
     <span>DEV-Dondon</span>
 </h1>
 
