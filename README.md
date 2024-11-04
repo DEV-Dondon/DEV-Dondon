@@ -1,8 +1,8 @@
-<img align="right" alt="Lucivan" height="380" src="https://br.freepik.com/vetores-premium/um-homem-senta-se-em-uma-mesa-com-um-computador-e-uma-tela-com-a-palavra-dope-citado-nele_321517101.htm#fromView=search&page=3&position=41&uuid=8732e6df-7b1e-4463-9cbe-21621eb547db">
+<img align="right" alt="Lucivan" height="380" src="https://img.freepik.com/fotos-premium/figura-encapuchada-sentada-num-quarto-escuro_604472-193171.jpg?uid=R15475566&ga=GA1.1.2080203664.1730673981&semt=ais_hybrid">
 
 <h1>
     <a href="https://github.com/DEV-Dondon">
-        <img align="center" alt="Logo DEV-Dondon" width="36px" src="https://br.freepik.com/icone/ciborgue_15443199#fromView=search&page=4&position=72&uuid=d586d055-509f-4cae-b37e-555731f7591e"></a>
+        <img align="center" alt="Logo DEV-Dondon" width="36px" src="https://cdn-icons-png.freepik.com/256/901/901032.png?uid=R15475566&ga=GA1.1.2080203664.1730673981&semt=ais_hybrid"></a>
     <span>DEV-Dondon</span>
 </h1>
 
