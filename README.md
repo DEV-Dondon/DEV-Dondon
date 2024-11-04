@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://github.com/DEV-Dondon">
-        <img align="center" alt="Logo DEV-Dondon" width="36px" src="https://cdn-icons-png.freepik.com/256/11435/11435653.png?uid=R15475566&ga=GA1.1.2080203664.1730673981&semt=ais_hybrid"></a>
+        <img align="center" alt="Logo DEV-Dondon" width="36px" src="https://br.freepik.com/icone/ciborgue_15443199#fromView=search&page=4&position=72&uuid=d586d055-509f-4cae-b37e-555731f7591e"></a>
     <span>DEV-Dondon</span>
 </h1>
 
