@@ -18,15 +18,15 @@ Sou fascinado por desafios e tenho um desejo incessante de contribuir com a comu
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=red)](https://www.facebook.com/lucivanfilho/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/lucivan_filho/)
 
-### Habilidades
 
-💻 **Tech Stack**:
-- **Languages**: C#, JavaScript
-- **Frameworks & Libraries**: .NET, ASP.NET Core
-- **DevOps & Tools**: Docker, GitHub Actions, Azure
-- **Databases**: Microsoft SQL Server
-- **Version Control**: Git, GitHub
-
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,9 +36,26 @@ Sou fascinado por desafios e tenho um desejo incessante de contribuir com a comu
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-### GitHub Status
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-Dondon&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DEV-Dondon)
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-Dondon&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DEV-Dondon&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Dondon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 📌 Contribuições
+- **Total de Contribuições**: 918
+- **Total de Commits**: 87
+- **Stars Ganhos**: 38
+- **PRs Criados**: 0
+- **Issues**: 0
+
+---
 
 <details align="left">
   <summary></summary> 
