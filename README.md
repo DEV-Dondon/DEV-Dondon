@@ -46,15 +46,6 @@ Sou fascinado por desafios e tenho um desejo incessante de contribuir com a comu
 
 ---
 
-### 📌 Contribuições
-- **Total de Contribuições**: 918
-- **Total de Commits**: 87
-- **Stars Ganhos**: 38
-- **PRs Criados**: 0
-- **Issues**: 0
-
----
-
 [![](https://visitcount.itsvg.in/api?id=21Johnn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
