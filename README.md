@@ -57,6 +57,10 @@ Sou fascinado por desafios e tenho um desejo incessante de contribuir com a comu
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=21Johnn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 <details align="left">
   <summary></summary> 
   
